@@ -1,12 +1,14 @@
 # Terms of Service
 
-Effective date: 15 September 2025
+Effective date: 3 May 2026
+
+Last updated: 25 April 2026
 
 **Welcome to ROK Battles**
 
 Welcome, and thank you for being part of the ROK Battles community. ROK Battles is a passion project created for players of _Rise of Kingdoms_, designed to give the community tools to share, explore, and analyze battle reports in a more meaningful way.
 
-These Terms of Service are more than fine print: they are the framework that allows this community to exist safely and fairly. They establish the ground rules for how the Services work, what you can expect from us, and what we expect from you in return. Because ROK Battles is still evolving, these Terms also anticipate future features such as accounts, premium services, and integrations with third-party platforms (including but not limited to Discord and Stripe).
+These Terms of Service are more than fine print: they are the framework that allows this community to exist safely and fairly. They establish the ground rules for how the Services work, what you can expect from us, and what we expect from you in return. Because ROK Battles is still evolving, these Terms also govern features such as user accounts, premium subscription services, and integrations with third-party platforms (including but not limited to Discord and Stripe).
 
 By using ROK Battles, you are entering into a legally binding contract with Sylke Technologies, LLC, a Wisconsin limited liability company. Please read these Terms carefully. If you do not agree to these Terms, you must not use the Services.
 
@@ -37,7 +39,7 @@ ROK Battles is a community-driven platform built by players, for players. Its pu
 - **The Website.** The primary experience is hosted at [www.rokbattles.com](https://www.rokbattles.com). The website allows users to explore uploaded reports, view aggregated statistics, and analyze trends.
 - **The Application.** We provide a downloadable desktop app that allows users to upload reports to the platform. The app is for submission only; exploration and analysis take place on the website.
 
-The Services are offered on a free-to-use basis at this time. In the future, we may introduce additional features, including account-based services, authentication through Discord, and premium offerings available through Stripe-powered payment processing.
+The Services are offered on a free-to-use basis at this time. We provide account-based services, including authentication through Discord and premium subscription offerings available through Stripe-powered payment processing.
 
 The Services are provided “as is.” We are continuously developing and improving them, and you acknowledge that features may change, break, or be discontinued without notice. We make no commitment to maintain backward compatibility or to preserve particular reports, trends, or features indefinitely.
 
@@ -59,9 +61,9 @@ You understand and agree that nothing in these Terms grants you any rights in or
 
 **6\. Accounts & Authentication**
 
-At present, many features of the Services are available without a user account. In the future, certain features may require registration and authentication.
+Certain features of the Services require registration and a user account. We provide login and registration through third-part providers, starting with Discord.
 
-- **Third-Party Authentication.** We plan to provide login and registration through third-party providers, beginning with Discord. If you create an account using a third-party authentication service, you authorize us to collect and store limited information from that service in accordance with our Privacy Policy.
+- **Third-Party Authentication.** We provide login and registration through third-party providers, currently Discord. If you create an account using a third-party authentication service, you authorize us to collect and store limited information from that service in accordance with our Privacy Policy.
 - **Your Responsibility.** You are responsible for maintaining the confidentiality of your credentials and for any activity conducted under your account. If you believe your account has been compromised, you must notify us promptly.
 - **Our Rights.** We may suspend or terminate accounts at our discretion, including where an account violates these Terms, poses a security or legal risk, or is otherwise deemed harmful to the community.
 
@@ -103,7 +105,7 @@ We reserve the right to investigate violations of this Acceptable Use Policy, an
 
 **10\. Premium Services & Payments**
 
-While the Services are currently free to use, we anticipate introducing premium features in the future. If you choose to purchase or subscribe to such features, the following terms will apply:
+We offer premium features and subscription-based services. If you choose to purchase or subscribe to such features, the following terms apply:
 
 1. **Payment Processing.** All payments will be processed by third-party providers, including Stripe, and are subject to their terms and conditions. We do not store or process your payment card information directly.
 2. **Billing & Subscriptions.** Premium features may be offered on a subscription basis. If so, subscriptions will automatically renew unless canceled prior to the end of the billing cycle.
@@ -118,6 +120,7 @@ The Services integrate with certain third-party platforms and providers, includi
 
 - **Discord.** For account creation and authentication.
 - **Stripe.** For payment processing of premium features.
+- **Sentry.** For error tracking, software debugging, and performance monitoring.
 
 Your use of these third-party services is subject to their respective terms of service and privacy policies, which are incorporated herein by reference. We do not control, and are not responsible for, the availability, security, or performance of third-party services.
 
@@ -148,7 +151,7 @@ Nothing in these Terms obligates Sylke Technologies to include any contribution 
 
 Our approach to data collection is intentionally minimal. The App transmits limited metadata when making requests to our APIs, including the App version, operating system, CPU architecture, and the version of the Tauri framework used. This data is embedded in the User-Agent header for the purposes of debugging, compatibility, and service improvement.
 
-In the future, if you create an account, we will collect additional information through our authentication provider (currently Discord) and our payment processor (Stripe). We will never store your payment card details.
+If you create an account, we collect additional information through our authentication provider (currently Discord) and our payment processor (Stripe). We will never store your payment card details.
 
 Your use of the Services is also governed by our Privacy Policy, which explains in greater detail what data we collect, how we use it, and your rights regarding your personal information.
 
@@ -179,6 +182,10 @@ The Services are dynamic and subject to ongoing development. Accordingly, Sylke 
 at any time, with or without notice, and without liability to you.
 
 We may also release updates, patches, or new versions of the App or related software that may be required for continued use of the Services. You acknowledge that failure to install such updates may limit or prevent your ability to use the Services.
+
+**17\.1 Beta Features.**
+
+We may, from time to time, offer 'Beta Features' that are still under development and testing. These features are strictly opt-in, and you are not required to use them to access the standard Services. By enabling Beta Features, you acknowledge and agree that: (a) they are provided 'as is' and may contain bugs or errors; (b) your use is at your sole discretion and risk; (c) we may modify, disable, or discontinue these features at any time without notice; and (d) Sylke Technologies has no liability arising from or related to your use of Beta Features.
 
 **18\. Termination & Suspension**
 

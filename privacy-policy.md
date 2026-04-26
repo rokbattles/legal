@@ -1,6 +1,8 @@
 # Privacy Policy
 
-Effective date: 15 September 2025
+Effective date: 3 May 2026
+
+Last updated: 25 April 2026
 
 **1\. Introduction & Scope**
 
@@ -29,8 +31,8 @@ We intentionally collect as little personal information as possible. Depending o
     - Tauri framework version.  
       This metadata is technical in nature and is not directly linked to an identified individual.
 2. **From the Website.** When you access the website, we may automatically collect standard log data, including IP address, browser type, and device information. We may also use cookies or similar technologies for authentication, session management, and analytics.
-3. **From Accounts (Future Functionality).** When account-based features are introduced, we will collect information provided by our authentication provider (currently Discord), such as username, account ID, and email address (if shared by Discord).
-4. **From Payments (Future Functionality).** When you purchase premium features, your payment information will be collected and processed by Stripe. We do not collect or store your payment card details.
+3. **From Accounts.** When account-based features are introduced, we will collect information provided by our authentication provider (currently Discord), such as username, account ID, and email address (if shared by Discord).
+4. **From Payments.** When you purchase premium features, your payment information will be collected and processed by Stripe. We do not collect or store your payment card details.
 5. **From User Content.** When you upload battle reports or related data, we store that information for display, analysis, and community use.
 
 We do not intentionally collect sensitive personal information (such as race, religion, or health data), and we ask that you do not include such information in your User Content or contributions.
@@ -40,7 +42,7 @@ We do not intentionally collect sensitive personal information (such as race, re
 We use the information described above for the following purposes:
 
 - **To Provide the Services.** Operating, maintaining, and improving the website, App, and APIs.
-- **To Authenticate Users.** Using Discord OAuth (when accounts are introduced).
+- **To Authenticate Users.** Using Discord OAuth for account authentication.
 - **To Process Transactions.** Facilitating payments for premium features through Stripe.
 - **To Ensure Functionality and Security.** Debugging, troubleshooting, and ensuring compatibility across systems and devices.
 - **To Prevent Misuse.** Detecting and preventing fraud, abuse, or violations of our Terms of Service.
@@ -62,11 +64,12 @@ For users located in the European Economic Area (EEA) or the United Kingdom, we 
 We do not sell your personal information. We share information only as necessary to provide and support the Services, or as required by law:
 
 - **With Service Providers.** We engage trusted third-party providers to support the operation of the Services. These include:  
-  • Discord – for authentication (when account functionality is available);  
+  • Discord – for authentication;  
   • Stripe – for payment processing of premium features;  
   • GitHub – for hosting and managing the open-source project repository;  
   • Cloudflare – for performance optimization, content delivery, and security services (including DDoS protection);  
   • OVHcloud – for hosting and infrastructure services.
+  • Sentry – for error tracking, software debugging, and performance monitoring
 - **For Legal Compliance.** We may disclose information if required by law, court order, or governmental authority, or if we believe in good faith that disclosure is necessary to protect rights, safety, or property.
 - **In Corporate Events.** If we are involved in a merger, acquisition, financing, or sale of assets, information may be transferred as part of that transaction.
 
@@ -103,7 +106,7 @@ This information is used to monitor the performance of the Services, detect abus
 We retain personal information only for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
 
 - **App Metadata.** User-Agent data (App version, operating system, CPU architecture, Tauri version) is retained only as long as necessary for debugging and compatibility purposes, typically in short-term server logs.
-- **Account Information.** If you create an account through Discord (when available), we retain associated information for as long as your account remains active. If you delete your account, we will delete or anonymize your information within a reasonable period, subject to legal obligations.
+- **Account Information.** If you create an account through Discord, we retain associated information for as long as your account remains active. If you delete your account, we will delete or anonymize your information within a reasonable period, subject to legal obligations.
 - **Payment Information.** Stripe retains payment data in accordance with its own policies. We retain related transaction records as required by tax and financial reporting laws.
 - **User Content.** Battle reports and other User Content are retained for as long as they remain published through the Services. You may request deletion of your User Content, subject to our ability to remove it without impairing the integrity of aggregated analytics.
 - **Aggregated Data.** We may retain aggregated or anonymized information indefinitely, as it does not identify individual users.
@@ -160,11 +163,12 @@ For users in the European Economic Area, the United Kingdom, and other regions w
 
 The Services may contain links to, or integrate with, third-party platforms and service providers that help us operate ROK Battles. These include:
 
-- **Discord** – used for account authentication (when available).
+- **Discord** – used for account authentication.
 - **Stripe** – used for payment processing of premium features.
 - **GitHub** – used to host and manage the open-source project repository.
 - **Cloudflare** – provides performance optimization, content delivery, and security services (including DDoS protection).
 - **OVHcloud** – provides hosting and infrastructure services.
+- **Sentry** – provides error logging and diagnostic tools to help us improve service stability.
 
 Each of these third parties has its own terms of service and privacy policies, which apply when you use their services. We do not control these third parties, and we are not responsible for their availability, performance, or data practices.
 
