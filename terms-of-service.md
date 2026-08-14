@@ -2,13 +2,13 @@
 
 Effective date: 3 May 2026
 
-Last updated: 25 April 2026
+Last updated: 13 August 2026
 
 **Welcome to ROK Battles**
 
 Welcome, and thank you for being part of the ROK Battles community. ROK Battles is a passion project created for players of _Rise of Kingdoms_, designed to give the community tools to share, explore, and analyze battle reports in a more meaningful way.
 
-These Terms of Service are more than fine print: they are the framework that allows this community to exist safely and fairly. They establish the ground rules for how the Services work, what you can expect from us, and what we expect from you in return. Because ROK Battles is still evolving, these Terms also govern features such as user accounts, premium subscription services, and integrations with third-party platforms (including but not limited to Discord and Stripe).
+These Terms of Service are more than fine print: they are the framework that allows this community to exist safely and fairly. They establish the ground rules for how the Services work, what you can expect from us, and what we expect from you in return. Because ROK Battles is still evolving, these Terms also govern features such as user accounts and integrations with third-party service providers.
 
 By using ROK Battles, you are entering into a legally binding contract with Sylke Technologies, LLC, a Wisconsin limited liability company. Please read these Terms carefully. If you do not agree to these Terms, you must not use the Services.
 
@@ -39,7 +39,7 @@ ROK Battles is a community-driven platform built by players, for players. Its pu
 - **The Website.** The primary experience is hosted at [rokbattles.com](https://rokbattles.com). The website allows users to explore uploaded reports, view aggregated statistics, and analyze trends.
 - **The Application.** We provide a downloadable desktop app that allows users to upload reports to the platform. The app is for submission only; exploration and analysis take place on the website.
 
-The Services are offered on a free-to-use basis at this time. We provide account-based services, including authentication through Discord and premium subscription offerings available through Stripe-powered payment processing.
+The Services are provided free of charge. We provide account-based services, including authentication through Discord.
 
 The Services are provided “as is.” We are continuously developing and improving them, and you acknowledge that features may change, break, or be discontinued without notice. We make no commitment to maintain backward compatibility or to preserve particular reports, trends, or features indefinitely.
 
@@ -103,30 +103,18 @@ To protect the integrity and safety of the Services, you agree not to misuse the
 
 We reserve the right to investigate violations of this Acceptable Use Policy, and to suspend or terminate accounts or access to the Services where we reasonably believe such violations have occurred.
 
-**10\. Premium Services & Payments**
-
-We offer premium features and subscription-based services. If you choose to purchase or subscribe to such features, the following terms apply:
-
-1. **Payment Processing.** All payments will be processed by third-party providers, including Stripe, and are subject to their terms and conditions. We do not store or process your payment card information directly.
-2. **Billing & Subscriptions.** Premium features may be offered on a subscription basis. If so, subscriptions will automatically renew unless canceled prior to the end of the billing cycle.
-3. **Refunds.** Except where required by law, all payments are non-refundable. Specific refund or cancellation policies, if any, will be disclosed at the time of purchase.
-4. **Taxes.** You are responsible for all applicable taxes arising from your use of premium features, except taxes based on our net income.
-
-By purchasing premium features, you authorize us and our payment processors to charge your chosen payment method for all applicable fees.
-
-**11\. Third-Party Services & Integrations**
+**10\. Third-Party Services & Integrations**
 
 The Services integrate with certain third-party platforms and providers, including but not limited to:
 
 - **Discord.** For account creation and authentication.
-- **Stripe.** For payment processing of premium features.
 - **Sentry.** For error tracking, software debugging, and performance monitoring.
 
 Your use of these third-party services is subject to their respective terms of service and privacy policies, which are incorporated herein by reference. We do not control, and are not responsible for, the availability, security, or performance of third-party services.
 
 To the maximum extent permitted by law, Sylke Technologies disclaims liability for any harm, loss, or dispute arising from your use of third-party services, whether accessed directly through the Services or indirectly.
 
-**12\. User Responsibilities**
+**11\. User Responsibilities**
 
 You agree to use the Services in a responsible manner. Specifically, you represent and warrant that you will:
 
@@ -137,7 +125,7 @@ You agree to use the Services in a responsible manner. Specifically, you represe
 
 You are solely responsible for any consequences, including in-game consequences within _Rise of Kingdoms_, that result from your use of the Services. Sylke Technologies is not responsible for your strategic decisions, in-game outcomes, or losses resulting from reliance on analytics provided through the Services.
 
-**13\. Contribution of Code or Features**
+**12\. Contribution of Code or Features**
 
 ROK Battles is maintained as an open-source project. We welcome contributions, subject to the following conditions:
 
@@ -147,31 +135,31 @@ ROK Battles is maintained as an open-source project. We welcome contributions, s
 
 Nothing in these Terms obligates Sylke Technologies to include any contribution in the Services.
 
-**14\. Data Collection & Privacy**
+**13\. Data Collection & Privacy**
 
 Our approach to data collection is intentionally minimal. The App transmits limited metadata when making requests to our APIs, including the App version, operating system, CPU architecture, and the version of the Tauri framework used. This data is embedded in the User-Agent header for the purposes of debugging, compatibility, and service improvement.
 
-If you create an account, we collect additional information through our authentication provider (currently Discord) and our payment processor (Stripe). We will never store your payment card details.
+If you create an account, we collect limited information from Discord, our authentication provider.
 
 Your use of the Services is also governed by our Privacy Policy, which explains in greater detail what data we collect, how we use it, and your rights regarding your personal information.
 
-**15\. Data Security**
+**14\. Data Security**
 
 We take commercially reasonable measures to safeguard the integrity and confidentiality of information transmitted to and through the Services. These measures may include encryption, access controls, and monitoring of system activity.
 
 That said, no method of transmission over the internet or method of electronic storage is completely secure. You understand and agree that Sylke Technologies cannot guarantee absolute security of your information. You are responsible for implementing appropriate safeguards on your own devices and networks, including maintaining updated software and using security tools appropriate to your circumstances.
 
-If you suspect a security vulnerability or breach related to the Services, we encourage you to report it promptly using the contact information provided in Section 25.
+If you suspect a security vulnerability or breach related to the Services, we encourage you to report it promptly using the contact information provided in Section 24.
 
-**16\. Children’s Use**
+**15\. Children’s Use**
 
 The Services are not directed to, and may not be used by, children under the age of 13. If you are under 13, you may not access or use the Services under any circumstances.
 
-If you are between 13 and 18 (or the age of majority in your jurisdiction, if higher), you may use the Services only under the supervision of a parent or legal guardian who agrees to be bound by these Terms. Parents and guardians who permit their children to use the Services accept full responsibility for the child’s use, including any financial transactions, communications, or content submitted.
+If you are between 13 and 18 (or the age of majority in your jurisdiction, if higher), you may use the Services only under the supervision of a parent or legal guardian who agrees to be bound by these Terms. Parents and guardians who permit their children to use the Services accept full responsibility for the child’s use, including communications or content submitted.
 
 We do not knowingly collect personal information from children under 13. If we become aware that we have inadvertently collected such information, we will take reasonable steps to delete it.
 
-**17\. Changes to Services**
+**16\. Changes to Services**
 
 The Services are dynamic and subject to ongoing development. Accordingly, Sylke Technologies reserves the right to:
 
@@ -183,11 +171,11 @@ at any time, with or without notice, and without liability to you.
 
 We may also release updates, patches, or new versions of the App or related software that may be required for continued use of the Services. You acknowledge that failure to install such updates may limit or prevent your ability to use the Services.
 
-**17\.1 Beta Features.**
+**16\.1 Beta Features.**
 
 We may, from time to time, offer 'Beta Features' that are still under development and testing. These features are strictly opt-in, and you are not required to use them to access the standard Services. By enabling Beta Features, you acknowledge and agree that: (a) they are provided 'as is' and may contain bugs or errors; (b) your use is at your sole discretion and risk; (c) we may modify, disable, or discontinue these features at any time without notice; and (d) Sylke Technologies has no liability arising from or related to your use of Beta Features.
 
-**18\. Termination & Suspension**
+**17\. Termination & Suspension**
 
 We may suspend or terminate your access to the Services, or to specific features, at any time and for any reason, including but not limited to:
 
@@ -201,9 +189,9 @@ Upon termination:
 
 - Your right to access the Services immediately ceases;
 - Certain licenses granted by you to us (e.g., with respect to User Content) shall continue;
-- Provisions of these Terms that by their nature should survive termination (including Sections 7, 8, 19, 20, and 21) shall remain in effect.
+- Provisions of these Terms that by their nature should survive termination (including Sections 7, 8, 18, 19, and 20) shall remain in effect.
 
-**19\. Disclaimers of Warranties**
+**18\. Disclaimers of Warranties**
 
 To the maximum extent permitted by applicable law, the Services are provided “as is” and “as available,” without warranties of any kind, express or implied.
 
@@ -215,19 +203,19 @@ Without limiting the foregoing, Sylke Technologies specifically disclaims:
 
 You acknowledge that the Services are experimental in nature, subject to ongoing development, and may contain bugs, errors, or defects. You further acknowledge that any reliance on the Services, including for strategic or in-game decisions, is at your sole risk.
 
-**20\. Limitation of Liability**
+**19\. Limitation of Liability**
 
 To the fullest extent permitted by law, Sylke Technologies and its officers, directors, employees, contractors, and agents shall not be liable for:
 
 - Any indirect, incidental, special, consequential, or punitive damages, including but not limited to lost profits, lost data, loss of goodwill, or business interruption, arising out of or in connection with your use of the Services;
 - Any damages arising from unauthorized access to or alteration of your transmissions or data;
-- Any damages resulting from your interactions with third-party services, including Discord and Stripe.
+- Any damages resulting from your interactions with third-party services.
 
-In no event shall our aggregate liability to you exceed the greater of: (a) the total fees you paid to us for premium features in the twelve (12) months preceding the event giving rise to liability, or (b) one hundred U.S. dollars (USD $100).
+In no event shall our aggregate liability to you exceed one hundred U.S. dollars (USD $100).
 
 Some jurisdictions do not allow limitations of liability for certain types of damages. In such jurisdictions, our liability shall be limited to the maximum extent permitted by law.
 
-**21\. Indemnification**
+**20\. Indemnification**
 
 You agree to indemnify, defend, and hold harmless Sylke Technologies and its officers, directors, employees, contractors, and agents from and against any claims, liabilities, damages, losses, and expenses (including reasonable attorneys’ fees) arising out of or in any way connected with:
 
@@ -238,7 +226,7 @@ You agree to indemnify, defend, and hold harmless Sylke Technologies and its off
 
 We reserve the right, at our own expense, to assume exclusive defense and control of any matter otherwise subject to indemnification by you. In such case, you agree to cooperate with us in the defense of such matter.
 
-**22\. Export Controls & Sanctions Compliance**
+**21\. Export Controls & Sanctions Compliance**
 
 The Services are subject to U.S. export control laws and regulations, including the Export Administration Regulations (EAR) and sanctions programs administered by the U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC).
 
@@ -250,7 +238,7 @@ By accessing or using the Services, you represent and warrant that you are not:
 
 You agree to comply fully with all applicable export control and sanctions laws and regulations in connection with your use of the Services.
 
-**23\. Governing Law & Dispute Resolution**
+**22\. Governing Law & Dispute Resolution**
 
 These Terms, and any dispute or claim arising out of or in connection with them or their subject matter, shall be governed by and construed in accordance with the laws of the United States and the State of Wisconsin, without regard to conflict of laws principles.
 
@@ -260,13 +248,13 @@ These Terms, and any dispute or claim arising out of or in connection with them 
 
 **International Users.** If you are located outside the United States, you agree that U.S. laws and jurisdiction will apply to the fullest extent permissible under local law, and that you are responsible for ensuring your compliance with local laws in addition to these Terms.
 
-**24\. Severability & Waiver**
+**23\. Severability & Waiver**
 
 If any provision of these Terms is held to be invalid, illegal, or unenforceable, the remaining provisions shall continue in full force and effect. The invalid, illegal, or unenforceable provision shall be deemed modified to the minimum extent necessary to make it valid and enforceable, consistent with the original intent of the parties.
 
 No waiver by Sylke Technologies of any term or condition set forth in these Terms shall be deemed a further or continuing waiver of such term or condition, or a waiver of any other term or condition. Any failure by Sylke Technologies to assert a right or enforce a provision shall not constitute a waiver of such right or provision.
 
-**25\. Notices & Contact Information**
+**24\. Notices & Contact Information**
 
 All notices required or permitted under these Terms shall be in writing and shall be deemed given:
 

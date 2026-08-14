@@ -2,7 +2,7 @@
 
 Effective date: 3 May 2026
 
-Last updated: 25 April 2026
+Last updated: 13 August 2026
 
 **1\. Introduction**  
 This Cookie Policy explains how Sylke Technologies, LLC, a Wisconsin limited liability company (“Sylke Technologies,” “we,” “our,” or “us”), uses cookies and similar technologies in connection with the ROK Battles website [rokbattles.com](https://rokbattles.com) (the “Website”) and related services.
@@ -34,7 +34,7 @@ Types of cookies include:
     - Legal Basis: Legitimate interests (where allowed) or consent.
     - Example: Privacy-friendly analytics tools that collect aggregated, non-identifiable data.
 4. **Third-Party Cookies**
-    - Purpose: Set when the Website integrates with services such as Discord (authentication), Stripe (payments), Sentry (error tracking), Cloudflare (security and content delivery), and OVHcloud (hosting infrastructure).
+    - Purpose: Set when the Website integrates with services such as Discord (authentication), Sentry (error tracking), Cloudflare (security and content delivery), and OVHcloud (hosting infrastructure).
     - Legal Basis: Consent where required by law.
 
 We do not use cookies for targeted advertising, behavioral profiling, or “selling” data under the CCPA/CPRA.
@@ -58,7 +58,6 @@ Disabling cookies may impair certain features, including authentication and pers
 Some cookies are set by third parties that support the Website, including:
 
 - Discord – account authentication.
-- Stripe – payment processing.
 - GitHub – project hosting (open-source repository).
 - Cloudflare – performance optimization, security, and DDoS protection.
 - OVHcloud – hosting and infrastructure.

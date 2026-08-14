@@ -2,7 +2,7 @@
 
 Effective date: 3 May 2026
 
-Last updated: 25 April 2026
+Last updated: 13 August 2026
 
 **1\. Introduction & Scope**
 
@@ -32,8 +32,7 @@ We intentionally collect as little personal information as possible. Depending o
       This metadata is technical in nature and is not directly linked to an identified individual.
 2. **From the Website.** When you access the website, we may automatically collect standard log data, including IP address, browser type, and device information. We may also use cookies or similar technologies for authentication, session management, and analytics.
 3. **From Accounts.** When account-based features are introduced, we will collect information provided by our authentication provider (currently Discord), such as username, account ID, and email address (if shared by Discord).
-4. **From Payments.** When you purchase premium features, your payment information will be collected and processed by Stripe. We do not collect or store your payment card details.
-5. **From User Content.** When you upload battle reports or related data, we store that information for display, analysis, and community use.
+4. **From User Content.** When you upload battle reports or related data, we store that information for display, analysis, and community use.
 
 We do not intentionally collect sensitive personal information (such as race, religion, or health data), and we ask that you do not include such information in your User Content or contributions.
 
@@ -43,7 +42,6 @@ We use the information described above for the following purposes:
 
 - **To Provide the Services.** Operating, maintaining, and improving the website, App, and APIs.
 - **To Authenticate Users.** Using Discord OAuth for account authentication.
-- **To Process Transactions.** Facilitating payments for premium features through Stripe.
 - **To Ensure Functionality and Security.** Debugging, troubleshooting, and ensuring compatibility across systems and devices.
 - **To Prevent Misuse.** Detecting and preventing fraud, abuse, or violations of our Terms of Service.
 - **To Communicate With You.** Sending service-related updates, notices about changes to policies, or responses to support inquiries.
@@ -54,9 +52,9 @@ We do not use your information for targeted advertising, nor do we sell your per
 
 For users located in the European Economic Area (EEA) or the United Kingdom, we process personal data only where we have a lawful basis under the GDPR or UK GDPR. These bases include:
 
-- **Contractual Necessity.** To provide you with the Services you request, such as authentication or premium features.
+- **Contractual Necessity.** To provide account and authentication features you request.
 - **Legitimate Interests.** To improve our Services, ensure security, and analyze usage, provided such interests are not overridden by your rights and freedoms.
-- **Legal Obligations.** To comply with applicable law, including recordkeeping and tax obligations related to payments.
+- **Legal Obligations.** To comply with applicable law.
 - **Consent.** For certain processing activities (e.g., non-essential cookies or future marketing communications), we will rely on your explicit consent.
 
 **5\. Data Sharing & Disclosure**
@@ -65,7 +63,6 @@ We do not sell your personal information. We share information only as necessary
 
 - **With Service Providers.** We engage trusted third-party providers to support the operation of the Services. These include:  
   • Discord – for authentication;  
-  • Stripe – for payment processing of premium features;  
   • GitHub – for hosting and managing the open-source project repository;  
   • Cloudflare – for performance optimization, content delivery, and security services (including DDoS protection);  
   • OVHcloud – for hosting and infrastructure services.
@@ -107,7 +104,6 @@ We retain personal information only for as long as necessary to fulfill the purp
 
 - **App Metadata.** User-Agent data (App version, operating system, CPU architecture, Tauri version) is retained only as long as necessary for debugging and compatibility purposes, typically in short-term server logs.
 - **Account Information.** If you create an account through Discord, we retain associated information for as long as your account remains active. If you delete your account, we will delete or anonymize your information within a reasonable period, subject to legal obligations.
-- **Payment Information.** Stripe retains payment data in accordance with its own policies. We retain related transaction records as required by tax and financial reporting laws.
 - **User Content.** Battle reports and other User Content are retained for as long as they remain published through the Services. You may request deletion of your User Content, subject to our ability to remove it without impairing the integrity of aggregated analytics.
 - **Aggregated Data.** We may retain aggregated or anonymized information indefinitely, as it does not identify individual users.
 
@@ -164,7 +160,6 @@ For users in the European Economic Area, the United Kingdom, and other regions w
 The Services may contain links to, or integrate with, third-party platforms and service providers that help us operate ROK Battles. These include:
 
 - **Discord** – used for account authentication.
-- **Stripe** – used for payment processing of premium features.
 - **GitHub** – used to host and manage the open-source project repository.
 - **Cloudflare** – provides performance optimization, content delivery, and security services (including DDoS protection).
 - **OVHcloud** – provides hosting and infrastructure services.
