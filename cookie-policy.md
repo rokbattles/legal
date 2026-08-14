@@ -58,7 +58,6 @@ Disabling cookies may impair certain features, including authentication and pers
 Some cookies are set by third parties that support the Website, including:
 
 - Discord – account authentication.
-- GitHub – project hosting (open-source repository).
 - Cloudflare – performance optimization, security, and DDoS protection.
 - Sentry – error tracking, software debugging, and performance monitoring.
 
