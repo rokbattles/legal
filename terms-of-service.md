@@ -14,7 +14,7 @@ By using ROK Battles, you are entering into a legally binding contract with Sylk
 
 **1\. Introduction & Agreement to Terms**
 
-These Terms of Service (“Terms”) form a legally binding contract between you (“you,” “User”) and Sylke Technologies, LLC, a United States limited liability company (“Sylke Technologies,” “we,” “our,” or “us”), governing your use of the ROK Battles website, the ROK Battles desktop application, related APIs, and all content, features, and services we make available through them (collectively, the “Services”).
+These Terms of Service (“Terms”) form a legally binding contract between you (“you,” “User”) and Sylke Technologies, LLC, a Wisconsin limited liability company (“Sylke Technologies,” “we,” “our,” or “us”), governing your use of the ROK Battles website, the ROK Battles desktop application, related APIs, and all content, features, and services we make available through them (collectively, the “Services”).
 
 By accessing, installing, or otherwise using the Services, you represent that you have read and understood these Terms, and you agree to be bound by them. If you do not agree, you must not use the Services.
 
@@ -36,7 +36,7 @@ The Services are made available to a global audience. However, you are solely re
 
 ROK Battles is a community-driven platform built by players, for players. Its purpose is to make the strategic elements of _Rise of Kingdoms_ more transparent and engaging by enabling the sharing and analysis of battle reports.
 
-- **The Website.** The primary experience is hosted at [www.rokbattles.com](https://www.rokbattles.com). The website allows users to explore uploaded reports, view aggregated statistics, and analyze trends.
+- **The Website.** The primary experience is hosted at [rokbattles.com](https://rokbattles.com). The website allows users to explore uploaded reports, view aggregated statistics, and analyze trends.
 - **The Application.** We provide a downloadable desktop app that allows users to upload reports to the platform. The app is for submission only; exploration and analysis take place on the website.
 
 The Services are offered on a free-to-use basis at this time. We provide account-based services, including authentication through Discord and premium subscription offerings available through Stripe-powered payment processing.
@@ -45,7 +45,7 @@ The Services are provided “as is.” We are continuously developing and improv
 
 **4\. Open-Source & GitHub Repository**
 
-The Services are powered in part by software that is publicly available as an open-source project at \[[https://github.com/rokbattles/rokbattles](https://github.com/rokbattles/rokbattles?utm_source=chatgpt.com)\]. That source code is distributed under the Apache License, Version 2.0, and the MIT License (collectively, the “Open-Source Licenses”).
+The Services are powered in part by software that is publicly available as an open-source project at [https://github.com/rokbattles/rokbattles](https://github.com/rokbattles/rokbattles). That source code is distributed under the Apache License, Version 2.0, and the MIT License (collectively, the “Open-Source Licenses”).
 
 Your rights with respect to the source code are determined solely by those Open-Source Licenses. Nothing in these Terms is intended to alter, expand, or restrict your rights under the Open-Source Licenses. However, your use of the hosted Services (the website, the app, and the APIs we operate) is governed exclusively by these Terms.
 
