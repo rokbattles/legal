@@ -31,7 +31,7 @@ We intentionally collect as little personal information as possible. Depending o
     - Tauri framework version.  
       This metadata is technical in nature and is not directly linked to an identified individual.
 2. **From the Website.** When you access the website, we may automatically collect standard log data, including IP address, browser type, and device information. We may also use cookies or similar technologies for authentication, session management, and analytics.
-3. **From Accounts.** When account-based features are introduced, we will collect information provided by our authentication provider (currently Discord), such as username, account ID, and email address (if shared by Discord).
+3. **From Accounts.** Account creation and sign-in require a Discord account with a registered email address. When you authenticate through Discord, we receive and store your Discord user ID and email address.
 4. **From User Content.** When you upload battle reports or related data, we store that information for display, analysis, and community use.
 
 We do not intentionally collect sensitive personal information (such as race, religion, or health data), and we ask that you do not include such information in your User Content or contributions.
@@ -103,7 +103,7 @@ This information is used to monitor the performance of the Services, detect abus
 We retain personal information only for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
 
 - **App Metadata.** User-Agent data (App version, operating system, CPU architecture, Tauri version) is retained only as long as necessary for debugging and compatibility purposes, typically in short-term server logs.
-- **Account Information.** If you create an account through Discord, we retain associated information for as long as your account remains active. If you delete your account, we will delete or anonymize your information within a reasonable period, subject to legal obligations.
+- **Account Information.** We retain your Discord user ID and email address for as long as your account remains active. If you delete your account, we will delete or anonymize this information within a reasonable period, subject to legal obligations.
 - **User Content.** Battle reports and other User Content are retained for as long as they remain published through the Services. You may request deletion of your User Content, subject to our ability to remove it without impairing the integrity of aggregated analytics.
 - **Aggregated Data.** We may retain aggregated or anonymized information indefinitely, as it does not identify individual users.
 

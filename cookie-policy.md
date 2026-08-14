@@ -34,7 +34,7 @@ Types of cookies include:
     - Legal Basis: Legitimate interests (where allowed) or consent.
     - Example: Privacy-friendly analytics tools that collect aggregated, non-identifiable data.
 4. **Third-Party Cookies**
-    - Purpose: Set when the Website integrates with services such as Discord (authentication), Sentry (error tracking), Cloudflare (security and content delivery), and OVHcloud (hosting infrastructure).
+    - Purpose: Set when the Website integrates with services such as Discord (authentication), Sentry (error tracking), and Cloudflare (security and content delivery).
     - Legal Basis: Consent where required by law.
 
 We do not use cookies for targeted advertising, behavioral profiling, or “selling” data under the CCPA/CPRA.
@@ -60,7 +60,6 @@ Some cookies are set by third parties that support the Website, including:
 - Discord – account authentication.
 - GitHub – project hosting (open-source repository).
 - Cloudflare – performance optimization, security, and DDoS protection.
-- OVHcloud – hosting and infrastructure.
 - Sentry – error tracking, software debugging, and performance monitoring.
 
 These providers act as independent data controllers for their cookies. Their privacy policies govern how they use your data.

@@ -61,9 +61,9 @@ You understand and agree that nothing in these Terms grants you any rights in or
 
 **6\. Accounts & Authentication**
 
-Certain features of the Services require registration and a user account. We provide login and registration through third-part providers, starting with Discord.
+Certain features of the Services require registration and a user account.
 
-- **Third-Party Authentication.** We provide login and registration through third-party providers, currently Discord. If you create an account using a third-party authentication service, you authorize us to collect and store limited information from that service in accordance with our Privacy Policy.
+- **Discord Authentication.** Account creation and sign-in are available only through Discord. Your Discord account must have a registered email address. When you authenticate, you authorize us to receive and store your Discord user ID and email address in accordance with our Privacy Policy.
 - **Your Responsibility.** You are responsible for maintaining the confidentiality of your credentials and for any activity conducted under your account. If you believe your account has been compromised, you must notify us promptly.
 - **Our Rights.** We may suspend or terminate accounts at our discretion, including where an account violates these Terms, poses a security or legal risk, or is otherwise deemed harmful to the community.
 
@@ -139,7 +139,7 @@ Nothing in these Terms obligates Sylke Technologies to include any contribution 
 
 Our approach to data collection is intentionally minimal. The App transmits limited metadata when making requests to our APIs, including the App version, operating system, CPU architecture, and the version of the Tauri framework used. This data is embedded in the User-Agent header for the purposes of debugging, compatibility, and service improvement.
 
-If you create an account, we collect limited information from Discord, our authentication provider.
+When you create an account or sign in through Discord, we receive and store your Discord user ID and email address.
 
 Your use of the Services is also governed by our Privacy Policy, which explains in greater detail what data we collect, how we use it, and your rights regarding your personal information.
 
