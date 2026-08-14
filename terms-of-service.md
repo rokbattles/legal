@@ -1,6 +1,6 @@
 # Terms of Service
 
-Effective date: 3 May 2026
+Effective date: 20 August 2026
 
 Last updated: 13 August 2026
 
