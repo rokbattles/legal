@@ -2,10 +2,10 @@
 
 Effective date: 20 August 2026
 
-Last updated: 13 August 2026
+Last updated: 5 November 2026
 
 **1\. Introduction**  
-This Cookie Policy explains how Sylke Technologies, LLC, a Wisconsin limited liability company (“Sylke Technologies,” “we,” “our,” or “us”), uses cookies and similar technologies in connection with the ROK Battles website [rokbattles.com](https://rokbattles.com) (the “Website”) and related services.
+This Cookie Policy explains how ROK Battles LLC, a Florida limited liability company (“ROK Battles,” “we,” “our,” or “us”), uses cookies and similar technologies in connection with the ROK Battles website [rokbattles.com](https://rokbattles.com) (the “Website”) and related services.
 
 This policy should be read together with our Privacy Policy and Terms of Service. By continuing to use the Website after seeing a cookie banner or notice, you consent to the use of cookies as described here, unless you disable them using the methods outlined below.
 
@@ -82,5 +82,5 @@ We may update this Cookie Policy to reflect changes in our practices, legal requ
 **10\. Contact Information**  
 If you have questions about this Cookie Policy or our use of cookies and similar technologies, contact us at:
 
-Sylke Technologies, LLC  
-Email: [privacy@sylketech.com](mailto:privacy@sylketech.com)
+ROK Battles LLC\
+Email: [privacy@rokbattles.com](mailto:privacy@rokbattles.com)

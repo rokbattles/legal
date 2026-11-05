@@ -2,13 +2,13 @@
 
 Effective date: 20 August 2026
 
-Last updated: 13 August 2026
+Last updated: 5 November 2026
 
 **1\. Introduction & Scope**
 
-This Privacy Policy explains how Sylke Technologies, LLC, a Wisconsin limited liability company (“Sylke Technologies,” “we,” “our,” or “us”) collects, uses, shares, and safeguards information in connection with the ROK Battles website located at [rokbattles.com](https://rokbattles.com), the ROK Battles desktop application (the “App”), our APIs, and related features and services (collectively, the “Services”).
+This Privacy Policy explains how ROK Battles LLC, a Florida limited liability company (“ROK Battles,” “we,” “our,” or “us”) collects, uses, shares, and safeguards information in connection with the ROK Battles website located at [rokbattles.com](https://rokbattles.com), the ROK Battles desktop application (the “App”), our APIs, and related features and services (collectively, the “Services”).
 
-This Privacy Policy applies exclusively to ROK Battles. It does not extend to other projects, products, or websites operated by Sylke Technologies.
+This Privacy Policy applies exclusively to ROK Battles. It does not extend to other projects, products, or websites operated by ROK Battles.
 
 We are committed to handling your information responsibly and transparently, in accordance with applicable privacy and data protection laws, including but not limited to:
 
@@ -151,7 +151,7 @@ We also rely on the security measures implemented by our infrastructure provider
 
 **13\. International Data Transfers**
 
-Because Sylke Technologies is based in the United States, information we collect will be processed and stored in the United States. If you access the Services from outside the United States, you acknowledge that your data will be transferred to and processed in the United States, which may have different data protection laws than your jurisdiction.
+Because ROK Battles is based in the United States, information we collect will be processed and stored in the United States. If you access the Services from outside the United States, you acknowledge that your data will be transferred to and processed in the United States, which may have different data protection laws than your jurisdiction.
 
 For users in the European Economic Area, the United Kingdom, and other regions where cross-border data transfer mechanisms are required, we rely on appropriate safeguards such as the European Commission’s Standard Contractual Clauses (SCCs) or other lawful transfer mechanisms approved under applicable law.
 
@@ -211,7 +211,7 @@ We encourage you to contact us first so that we may attempt to resolve your conc
 
 If you have questions, concerns, or complaints about this Privacy Policy or our data practices, you may contact us at:
 
-**Sylke Technologies, LLC**  
-Email: [privacy@sylketech.com](mailto:privacy@sylketech.com)
+**ROK Battles LLC**\
+Email: [privacy@rokbattles.com](mailto:privacy@rokbattles.com)
 
 For privacy-related requests, please include “Privacy Request” in the subject line of your email.
