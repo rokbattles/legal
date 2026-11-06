@@ -45,11 +45,11 @@ The Services are provided “as is.” We are continuously developing and improv
 
 **4\. Open-Source & GitHub Repository**
 
-The Services are powered in part by software that is publicly available as an open-source project at [https://github.com/rokbattles/rokbattles](https://github.com/rokbattles/rokbattles). That source code is distributed under the Apache License, Version 2.0, and the MIT License (collectively, the “Open-Source Licenses”).
+The Services are powered in part by software that is publicly available as an open-source project at [https://github.com/rokbattles/rokbattles](https://github.com/rokbattles/rokbattles). Except where otherwise noted, the current source code is distributed under the GNU Affero General Public License, version 3 only (AGPL-3.0-only, the “Open-Source License”). Versions previously released under the MIT License or Apache License, Version 2.0 remain available under those licenses. Third-party components retain their own licenses and required notices.
 
-Your rights with respect to the source code are determined solely by those Open-Source Licenses. Nothing in these Terms is intended to alter, expand, or restrict your rights under the Open-Source Licenses. However, your use of the hosted Services (the website, the app, and the APIs we operate) is governed exclusively by these Terms.
+Your rights with respect to the source code are determined solely by the Open-Source License. Nothing in these Terms is intended to alter, expand, or restrict your rights under the Open-Source License. However, your use of the hosted Services (the website, the app, and the APIs we operate) is governed exclusively by these Terms.
 
-Where these Terms conflict with the Open-Source Licenses, the Open-Source Licenses control your use of the source code, while these Terms control your use of the Services.
+Where these Terms conflict with the Open-Source License, the Open-Source License controls your use of the source code, while these Terms control your use of the Services.
 
 **5\. No Affiliation with Lilith Games**
 
@@ -85,7 +85,7 @@ By contributing to ROK Battles, you help build a community resource. You also ac
 
 **8\. Platform Content & Intellectual Property**
 
-Except as expressly provided under the Open-Source Licenses referenced above, all intellectual property rights in and to the Services—including but not limited to the ROK Battles name, logo, website design, database architecture, visual interfaces, and non-open-sourced components of the platform—are owned by ROK Battles and its licensors.
+Except as expressly provided under the Open-Source License referenced above, all intellectual property rights in and to the Services—including but not limited to the ROK Battles name, logo, website design, database architecture, visual interfaces, and non-open-sourced components of the platform—are owned by ROK Battles and its licensors.
 
 You are granted a limited, non-exclusive, revocable license to access and use the Services solely for personal, non-commercial purposes in accordance with these Terms. Nothing in these Terms transfers to you any ownership interest in the Services, or grants you any rights to use ROK Battles’ trademarks, logos, or trade dress without our prior written consent.
 
@@ -129,7 +129,7 @@ You are solely responsible for any consequences, including in-game consequences 
 
 ROK Battles is maintained as an open-source project. We welcome contributions, subject to the following conditions:
 
-1. **License of Contributions.** By submitting code, documentation, or other materials to the ROK Battles repository, you agree that your contributions are licensed under both the MIT License and the Apache License, Version 2.0.
+1. **License of Contributions.** Unless explicitly agreed otherwise in writing, by submitting code, documentation, or other materials to the ROK Battles repository, you agree that your contributions are licensed under the GNU Affero General Public License, version 3 only (AGPL-3.0-only).
 2. **Contributor Warranty.** You represent that your contributions are original to you, do not infringe the rights of any third party, and are free of malicious or harmful code.
 3. **Review & Acceptance.** All contributions are subject to review by ROK Battles and may be accepted, rejected, or modified at our sole discretion.
 

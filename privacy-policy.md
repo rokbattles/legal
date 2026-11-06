@@ -177,7 +177,7 @@ If in the future we introduce features that involve automated processing with si
 
 **16\. Open-Source & Public Contributions**
 
-ROK Battles is maintained as an open-source project hosted on GitHub. Contributions made to the project repository (such as code submissions, issue reports, or pull requests) are publicly visible and subject to the terms of the repository’s open-source licenses (MIT and Apache 2.0).
+ROK Battles is maintained as an open-source project hosted on GitHub. Contributions made to the project repository (such as code submissions, issue reports, or pull requests) are publicly visible and subject to the terms of the repository’s open-source license (GNU Affero General Public License, version 3 only, AGPL-3.0-only), except where otherwise noted.
 
 Because contributions are public, you should avoid including any personal information in your submissions. Any personal information you voluntarily disclose in open-source contributions will be publicly available and outside our control.
 
