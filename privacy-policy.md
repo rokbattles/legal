@@ -2,11 +2,11 @@
 
 Effective date: 20 August 2026
 
-Last updated: 5 November 2026
+Last updated: 7 November 2026
 
 **1\. Introduction & Scope**
 
-This Privacy Policy explains how ROK Battles LLC, a Florida limited liability company (“ROK Battles,” “we,” “our,” or “us”) collects, uses, shares, and safeguards information in connection with the ROK Battles website located at [rokbattles.com](https://rokbattles.com), the ROK Battles desktop application (the “App”), our APIs, and related features and services (collectively, the “Services”).
+This Privacy Policy explains how ROK Battles LLC, a Florida limited liability company (“ROK Battles,” “we,” “our,” or “us”) collects, uses, shares, and safeguards information in connection with the ROK Battles website located at [rokbattles.com](https://rokbattles.com), the ROK Battles desktop application (the “App”), our APIs, mobile DNS and game capture gateways, and related features and services (collectively, the “Services”).
 
 This Privacy Policy applies exclusively to ROK Battles. It does not extend to other projects, products, or websites operated by ROK Battles.
 
@@ -32,7 +32,8 @@ We intentionally collect as little personal information as possible. Depending o
       This metadata is technical in nature and is not directly linked to an identified individual.
 2. **From the Website.** When you access the website, we may automatically collect standard log data, including IP address, browser type, and device information. We may also use cookies or similar technologies for authentication, session management, and analytics.
 3. **From Accounts.** Account creation and sign-in require a Discord account with a registered email address. When you authenticate through Discord, we receive and store your Discord user ID and email address.
-4. **From User Content.** When you upload battle reports or related data, we store that information for display, analysis, and community use.
+4. **From User Content.** When you upload supported game mails or related data, we store that information for display, analysis, and community use.
+5. **From Mobile DNS & Game Capture.** When you enable our mobile capture configuration, supported game connections are routed through a ROK Battles gateway. The gateway processes game traffic to extract supported game mails and associated player and server identifiers, and automatically uploads those game mails to our Services. Our DNS resolver receives the DNS queries routed to it by your configuration. On Android, DNS queries from apps not excluded in Intra also pass through our resolver; queries outside the domains handled by ROK Battles are forwarded to Cloudflare’s 1.1.1.1 DNS service. The iOS configuration profile routes DNS queries for specified domains to our resolver. Our [Android installation instructions](https://rokbattles.com/docs/installation/android) and [iOS installation instructions](https://rokbattles.com/docs/installation/ios) explain how to configure, limit, or stop this routing. Stopping capture does not delete game mails already collected.
 
 We do not intentionally collect sensitive personal information (such as race, religion, or health data), and we ask that you do not include such information in your User Content or contributions.
 
@@ -64,7 +65,7 @@ We do not sell your personal information. We share information only as necessary
 - **With Service Providers.** We engage trusted third-party providers to support the operation of the Services. These include:  
   • Discord – for authentication;  
   • GitHub – for hosting and managing the open-source project repository;  
-  • Cloudflare – for performance optimization, content delivery, and security services (including DDoS protection);  
+  • Cloudflare – for performance optimization, content delivery, security services (including DDoS protection), and forwarding DNS queries outside the domains handled by ROK Battles on the Android endpoint;\
   • OVHcloud – for hosting and infrastructure services.
   • Sentry – for error tracking, software debugging, and performance monitoring
 - **For Legal Compliance.** We may disclose information if required by law, court order, or governmental authority, or if we believe in good faith that disclosure is necessary to protect rights, safety, or property.
@@ -103,9 +104,12 @@ This information is used to monitor the performance of the Services, detect abus
 We retain personal information only for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
 
 - **App Metadata.** User-Agent data (App version, operating system, CPU architecture, Tauri version) is retained only as long as necessary for debugging and compatibility purposes, typically in short-term server logs.
-- **Account Information.** We retain your Discord user ID and email address for as long as your account remains active. If you delete your account, we will delete or anonymize this information within a reasonable period, subject to legal obligations.
-- **User Content.** Battle reports and other User Content are retained for as long as they remain published through the Services. You may request deletion of your User Content, subject to our ability to remove it without impairing the integrity of aggregated analytics.
-- **Aggregated Data.** We may retain aggregated or anonymized information indefinitely, as it does not identify individual users.
+- **Account Information.** We retain your Discord user ID and email address for as long as your account remains active. Account deletion requests are currently handled manually through [privacy@rokbattles.com](mailto:privacy@rokbattles.com). We will delete or anonymize account information in response to a valid request within the timeframes required by applicable law, subject to applicable legal exceptions.
+- **User Content.** Supported game mails and other User Content are retained for as long as they remain published through the Services. Deleting your account or content you submitted does not automatically delete game mails or other content independently submitted by other users, even where your game ID, name, avatar, or gameplay appears in that content. Appearing in another user’s game mail does not by itself entitle you to removal of the entire game mail. You may still exercise applicable privacy rights concerning personal information about you in that content. We assess those requests separately and determine whether deletion, redaction, anonymization, or another response is required under applicable law; preserving aggregated analytics does not override applicable deletion rights.
+- **Aggregated or Anonymized Data.** We may retain information indefinitely where it no longer identifies individuals and cannot reasonably be used to identify them. Aggregation alone does not remove applicable privacy rights if individuals remain identifiable.
+- **Backups.** Backup copies are stored in Cloudflare R2 and automatically deleted after a maximum of seven days. Information removed from live systems may remain in an existing backup until that backup expires. Applicable deletion obligations also extend to backup copies and information restored from them.
+
+Signing out, unlinking a governor, uninstalling the App, or stopping mobile capture does not by itself delete your account or previously collected game mails. Requests to delete personal information are assessed across the relevant account information, raw game mails, processed records, and associated caches, subject to applicable law. You do not need a ROK Battles account to request deletion of personal information about you.
 
 **9\. Data Subject Rights (GDPR, UK GDPR, LGPD, and Global Equivalents)**
 
@@ -113,7 +117,7 @@ If you are located in the European Economic Area, the United Kingdom, Brazil, or
 
 - **Access.** Request a copy of the personal data we hold about you.
 - **Correction.** Request that we correct or update inaccurate or incomplete data.
-- **Deletion.** Request that we delete your personal data, subject to legal or contractual obligations.
+- **Deletion.** Request that we delete your personal data, subject to applicable legal exceptions. Our content license does not limit your rights under applicable data protection law.
 - **Portability.** Request a structured, commonly used, and machine-readable copy of your data.
 - **Restriction.** Request that we limit the processing of your personal data in certain circumstances.
 - **Objection.** Object to processing based on our legitimate interests.
@@ -161,7 +165,7 @@ The Services may contain links to, or integrate with, third-party platforms and 
 
 - **Discord** – used for account authentication.
 - **GitHub** – used to host and manage the open-source project repository.
-- **Cloudflare** – provides performance optimization, content delivery, and security services (including DDoS protection).
+- **Cloudflare** – provides performance optimization, content delivery, security services (including DDoS protection), and the upstream DNS service used for queries outside the domains handled by ROK Battles on the Android endpoint.
 - **OVHcloud** – provides hosting and infrastructure services.
 - **Sentry** – provides error logging and diagnostic tools to help us improve service stability.
 
