@@ -2,7 +2,7 @@
 
 Effective date: 20 August 2026
 
-Last updated: 13 August 2026
+Last updated: 5 November 2026
 
 **Welcome to ROK Battles**
 
@@ -10,15 +10,15 @@ Welcome, and thank you for being part of the ROK Battles community. ROK Battles 
 
 These Terms of Service are more than fine print: they are the framework that allows this community to exist safely and fairly. They establish the ground rules for how the Services work, what you can expect from us, and what we expect from you in return. Because ROK Battles is still evolving, these Terms also govern features such as user accounts and integrations with third-party service providers.
 
-By using ROK Battles, you are entering into a legally binding contract with Sylke Technologies, LLC, a Wisconsin limited liability company. Please read these Terms carefully. If you do not agree to these Terms, you must not use the Services.
+By using ROK Battles, you are entering into a legally binding contract with ROK Battles LLC, a Florida limited liability company. Please read these Terms carefully. If you do not agree to these Terms, you must not use the Services.
 
 **1\. Introduction & Agreement to Terms**
 
-These Terms of Service (“Terms”) form a legally binding contract between you (“you,” “User”) and Sylke Technologies, LLC, a Wisconsin limited liability company (“Sylke Technologies,” “we,” “our,” or “us”), governing your use of the ROK Battles website, the ROK Battles desktop application, related APIs, and all content, features, and services we make available through them (collectively, the “Services”).
+These Terms of Service (“Terms”) form a legally binding contract between you (“you,” “User”) and ROK Battles LLC, a Florida limited liability company (“ROK Battles,” “we,” “our,” or “us”), governing your use of the ROK Battles website, the ROK Battles desktop application, related APIs, and all content, features, and services we make available through them (collectively, the “Services”).
 
 By accessing, installing, or otherwise using the Services, you represent that you have read and understood these Terms, and you agree to be bound by them. If you do not agree, you must not use the Services.
 
-These Terms apply solely to ROK Battles. They do not extend to other websites, software projects, or services operated by Sylke Technologies, even if they share common infrastructure or branding.
+These Terms apply solely to ROK Battles. They do not extend to other websites, software projects, or services operated by ROK Battles, even if they share common infrastructure or branding.
 
 We may update these Terms from time to time. If we make material changes, we will post the updated Terms on our website and may provide additional notice. Your continued use of the Services after any such update constitutes acceptance of the revised Terms.
 
@@ -27,7 +27,7 @@ We may update these Terms from time to time. If we make material changes, we wil
 To use the Services, you must meet certain requirements:
 
 1. **Minimum Age.** You must be at least 13 years old (or the minimum age of digital consent in your country) to use the Services. If you are under 18 but above the minimum age, you may only use the Services under the supervision of a parent or legal guardian who agrees to these Terms on your behalf.
-2. **Legal Capacity.** You must have the legal capacity to enter into a binding contract with Sylke Technologies.
+2. **Legal Capacity.** You must have the legal capacity to enter into a binding contract with ROK Battles.
 3. **No Restricted Use.** You may not use the Services if you are located in a jurisdiction subject to comprehensive U.S. sanctions, or if your use would otherwise violate applicable export control or trade laws.
 
 The Services are made available to a global audience. However, you are solely responsible for ensuring that your use of the Services complies with the laws of the country or region in which you reside.
@@ -67,14 +67,14 @@ Certain features of the Services require registration and a user account.
 - **Your Responsibility.** You are responsible for maintaining the confidentiality of your credentials and for any activity conducted under your account. If you believe your account has been compromised, you must notify us promptly.
 - **Our Rights.** We may suspend or terminate accounts at our discretion, including where an account violates these Terms, poses a security or legal risk, or is otherwise deemed harmful to the community.
 
-Accounts are a privilege, not a right, and Sylke Technologies reserves sole discretion in their management.
+Accounts are a privilege, not a right, and ROK Battles reserves sole discretion in their management.
 
 **7\. User Content (Battle Reports, Data Uploads)**
 
 The heart of ROK Battles is the content you and other users contribute. This includes battle reports, metadata, and related materials you upload through the Services (“User Content”).
 
 1. **Ownership.** You retain all ownership rights in your User Content.
-2. **License to Us.** By submitting User Content, you grant Sylke Technologies a worldwide, non-exclusive, royalty-free, perpetual, irrevocable, sublicensable, and transferable license to host, store, reproduce, display, analyze, distribute, and create derivative works from your User Content for the purpose of operating, improving, and promoting the Services.
+2. **License to Us.** By submitting User Content, you grant ROK Battles a worldwide, non-exclusive, royalty-free, perpetual, irrevocable, sublicensable, and transferable license to host, store, reproduce, display, analyze, distribute, and create derivative works from your User Content for the purpose of operating, improving, and promoting the Services.
 3. **Your Representations.** You represent and warrant that:
     - You own or have sufficient rights to submit the User Content.
     - Your User Content does not infringe or violate the intellectual property, privacy, or other rights of any third party.
@@ -85,9 +85,9 @@ By contributing to ROK Battles, you help build a community resource. You also ac
 
 **8\. Platform Content & Intellectual Property**
 
-Except as expressly provided under the Open-Source Licenses referenced above, all intellectual property rights in and to the Services—including but not limited to the ROK Battles name, logo, website design, database architecture, visual interfaces, and non-open-sourced components of the platform—are owned by Sylke Technologies and its licensors.
+Except as expressly provided under the Open-Source Licenses referenced above, all intellectual property rights in and to the Services—including but not limited to the ROK Battles name, logo, website design, database architecture, visual interfaces, and non-open-sourced components of the platform—are owned by ROK Battles and its licensors.
 
-You are granted a limited, non-exclusive, revocable license to access and use the Services solely for personal, non-commercial purposes in accordance with these Terms. Nothing in these Terms transfers to you any ownership interest in the Services, or grants you any rights to use Sylke Technologies’ trademarks, logos, or trade dress without our prior written consent.
+You are granted a limited, non-exclusive, revocable license to access and use the Services solely for personal, non-commercial purposes in accordance with these Terms. Nothing in these Terms transfers to you any ownership interest in the Services, or grants you any rights to use ROK Battles’ trademarks, logos, or trade dress without our prior written consent.
 
 All rights not expressly granted herein are reserved. Any unauthorized use of our intellectual property may result in termination of your access to the Services and potential legal action.
 
@@ -112,7 +112,7 @@ The Services integrate with certain third-party platforms and providers, includi
 
 Your use of these third-party services is subject to their respective terms of service and privacy policies, which are incorporated herein by reference. We do not control, and are not responsible for, the availability, security, or performance of third-party services.
 
-To the maximum extent permitted by law, Sylke Technologies disclaims liability for any harm, loss, or dispute arising from your use of third-party services, whether accessed directly through the Services or indirectly.
+To the maximum extent permitted by law, ROK Battles disclaims liability for any harm, loss, or dispute arising from your use of third-party services, whether accessed directly through the Services or indirectly.
 
 **11\. User Responsibilities**
 
@@ -123,7 +123,7 @@ You agree to use the Services in a responsible manner. Specifically, you represe
 - Comply with all applicable laws, regulations, and rules, including those governing online conduct, data protection, and export controls.
 - Maintain the security of your devices and networks when accessing the Services.
 
-You are solely responsible for any consequences, including in-game consequences within _Rise of Kingdoms_, that result from your use of the Services. Sylke Technologies is not responsible for your strategic decisions, in-game outcomes, or losses resulting from reliance on analytics provided through the Services.
+You are solely responsible for any consequences, including in-game consequences within _Rise of Kingdoms_, that result from your use of the Services. ROK Battles is not responsible for your strategic decisions, in-game outcomes, or losses resulting from reliance on analytics provided through the Services.
 
 **12\. Contribution of Code or Features**
 
@@ -131,9 +131,9 @@ ROK Battles is maintained as an open-source project. We welcome contributions, s
 
 1. **License of Contributions.** By submitting code, documentation, or other materials to the ROK Battles repository, you agree that your contributions are licensed under both the MIT License and the Apache License, Version 2.0.
 2. **Contributor Warranty.** You represent that your contributions are original to you, do not infringe the rights of any third party, and are free of malicious or harmful code.
-3. **Review & Acceptance.** All contributions are subject to review by Sylke Technologies and may be accepted, rejected, or modified at our sole discretion.
+3. **Review & Acceptance.** All contributions are subject to review by ROK Battles and may be accepted, rejected, or modified at our sole discretion.
 
-Nothing in these Terms obligates Sylke Technologies to include any contribution in the Services.
+Nothing in these Terms obligates ROK Battles to include any contribution in the Services.
 
 **13\. Data Collection & Privacy**
 
@@ -147,7 +147,7 @@ Your use of the Services is also governed by our Privacy Policy, which explains 
 
 We take commercially reasonable measures to safeguard the integrity and confidentiality of information transmitted to and through the Services. These measures may include encryption, access controls, and monitoring of system activity.
 
-That said, no method of transmission over the internet or method of electronic storage is completely secure. You understand and agree that Sylke Technologies cannot guarantee absolute security of your information. You are responsible for implementing appropriate safeguards on your own devices and networks, including maintaining updated software and using security tools appropriate to your circumstances.
+That said, no method of transmission over the internet or method of electronic storage is completely secure. You understand and agree that ROK Battles cannot guarantee absolute security of your information. You are responsible for implementing appropriate safeguards on your own devices and networks, including maintaining updated software and using security tools appropriate to your circumstances.
 
 If you suspect a security vulnerability or breach related to the Services, we encourage you to report it promptly using the contact information provided in Section 24.
 
@@ -161,7 +161,7 @@ We do not knowingly collect personal information from children under 13. If we b
 
 **16\. Changes to Services**
 
-The Services are dynamic and subject to ongoing development. Accordingly, Sylke Technologies reserves the right to:
+The Services are dynamic and subject to ongoing development. Accordingly, ROK Battles reserves the right to:
 
 - Add, remove, or modify features, content, or functionality;
 - Impose limits on certain features or restrict access to parts of the Services;
@@ -173,14 +173,14 @@ We may also release updates, patches, or new versions of the App or related soft
 
 **16\.1 Beta Features.**
 
-We may, from time to time, offer 'Beta Features' that are still under development and testing. These features are strictly opt-in, and you are not required to use them to access the standard Services. By enabling Beta Features, you acknowledge and agree that: (a) they are provided 'as is' and may contain bugs or errors; (b) your use is at your sole discretion and risk; (c) we may modify, disable, or discontinue these features at any time without notice; and (d) Sylke Technologies has no liability arising from or related to your use of Beta Features.
+We may, from time to time, offer 'Beta Features' that are still under development and testing. These features are strictly opt-in, and you are not required to use them to access the standard Services. By enabling Beta Features, you acknowledge and agree that: (a) they are provided 'as is' and may contain bugs or errors; (b) your use is at your sole discretion and risk; (c) we may modify, disable, or discontinue these features at any time without notice; and (d) ROK Battles has no liability arising from or related to your use of Beta Features.
 
 **17\. Termination & Suspension**
 
 We may suspend or terminate your access to the Services, or to specific features, at any time and for any reason, including but not limited to:
 
 - Violation of these Terms or our Acceptable Use Policy;
-- Conduct that we reasonably believe may cause harm to the Services, to other users, or to Sylke Technologies;
+- Conduct that we reasonably believe may cause harm to the Services, to other users, or to ROK Battles;
 - Compliance with legal requirements or governmental requests.
 
 You may terminate your account at any time by discontinuing use of the Services and, if applicable, deleting your account through the provided mechanisms.
@@ -195,7 +195,7 @@ Upon termination:
 
 To the maximum extent permitted by applicable law, the Services are provided “as is” and “as available,” without warranties of any kind, express or implied.
 
-Without limiting the foregoing, Sylke Technologies specifically disclaims:
+Without limiting the foregoing, ROK Battles specifically disclaims:
 
 - Any warranties of merchantability, fitness for a particular purpose, title, or non-infringement;
 - Any warranties that the Services will be uninterrupted, secure, or error-free;
@@ -205,7 +205,7 @@ You acknowledge that the Services are experimental in nature, subject to ongoing
 
 **19\. Limitation of Liability**
 
-To the fullest extent permitted by law, Sylke Technologies and its officers, directors, employees, contractors, and agents shall not be liable for:
+To the fullest extent permitted by law, ROK Battles and its officers, directors, employees, contractors, and agents shall not be liable for:
 
 - Any indirect, incidental, special, consequential, or punitive damages, including but not limited to lost profits, lost data, loss of goodwill, or business interruption, arising out of or in connection with your use of the Services;
 - Any damages arising from unauthorized access to or alteration of your transmissions or data;
@@ -217,7 +217,7 @@ Some jurisdictions do not allow limitations of liability for certain types of da
 
 **20\. Indemnification**
 
-You agree to indemnify, defend, and hold harmless Sylke Technologies and its officers, directors, employees, contractors, and agents from and against any claims, liabilities, damages, losses, and expenses (including reasonable attorneys’ fees) arising out of or in any way connected with:
+You agree to indemnify, defend, and hold harmless ROK Battles and its officers, directors, employees, contractors, and agents from and against any claims, liabilities, damages, losses, and expenses (including reasonable attorneys’ fees) arising out of or in any way connected with:
 
 - Your access to or use of the Services;
 - Your User Content, including claims that it infringes or violates the rights of any third party;
@@ -240,11 +240,11 @@ You agree to comply fully with all applicable export control and sanctions laws 
 
 **22\. Governing Law & Dispute Resolution**
 
-These Terms, and any dispute or claim arising out of or in connection with them or their subject matter, shall be governed by and construed in accordance with the laws of the United States and the State of Wisconsin, without regard to conflict of laws principles.
+These Terms, and any dispute or claim arising out of or in connection with them or their subject matter, shall be governed by and construed in accordance with the laws of the United States and the State of Florida, without regard to conflict of laws principles.
 
-**Venue.** You agree that any legal action or proceeding between you and Sylke Technologies related to these Terms shall be brought exclusively in the federal or state courts located in Wisconsin, and you consent to the personal jurisdiction of such courts.
+**Venue.** You agree that any legal action or proceeding between you and ROK Battles related to these Terms shall be brought exclusively in the federal or state courts located in Florida, and you consent to the personal jurisdiction of such courts.
 
-**Waiver of Jury Trial.** To the maximum extent permitted by law, you and Sylke Technologies each waive the right to a trial by jury in any dispute arising out of or relating to these Terms.
+**Waiver of Jury Trial.** To the maximum extent permitted by law, you and ROK Battles each waive the right to a trial by jury in any dispute arising out of or relating to these Terms.
 
 **International Users.** If you are located outside the United States, you agree that U.S. laws and jurisdiction will apply to the fullest extent permissible under local law, and that you are responsible for ensuring your compliance with local laws in addition to these Terms.
 
@@ -252,7 +252,7 @@ These Terms, and any dispute or claim arising out of or in connection with them 
 
 If any provision of these Terms is held to be invalid, illegal, or unenforceable, the remaining provisions shall continue in full force and effect. The invalid, illegal, or unenforceable provision shall be deemed modified to the minimum extent necessary to make it valid and enforceable, consistent with the original intent of the parties.
 
-No waiver by Sylke Technologies of any term or condition set forth in these Terms shall be deemed a further or continuing waiver of such term or condition, or a waiver of any other term or condition. Any failure by Sylke Technologies to assert a right or enforce a provision shall not constitute a waiver of such right or provision.
+No waiver by ROK Battles of any term or condition set forth in these Terms shall be deemed a further or continuing waiver of such term or condition, or a waiver of any other term or condition. Any failure by ROK Battles to assert a right or enforce a provision shall not constitute a waiver of such right or provision.
 
 **24\. Notices & Contact Information**
 
@@ -263,13 +263,13 @@ All notices required or permitted under these Terms shall be in writing and shal
 - Three (3) business days after being sent by certified or registered mail, return receipt requested; or
 - One (1) business day after deposit with a nationally recognized overnight courier service.
 
-Notices to Sylke Technologies shall be sent to:
+Notices to ROK Battles shall be sent to:
 
-**Sylke Technologies, LLC**  
-Email: [privacy@sylketech.com](mailto:privacy@sylketech.com)
+**ROK Battles LLC**\
+Email: [privacy@rokbattles.com](mailto:privacy@rokbattles.com)
 
 If we need to contact you, we will use the information you provided at registration (if applicable), or we may post a general notice on the Services.
 
-These Terms constitute the entire agreement between you and Sylke Technologies with respect to your use of ROK Battles. They supersede all prior or contemporaneous agreements, representations, or understandings, whether written or oral, relating to the Services.
+These Terms constitute the entire agreement between you and ROK Battles with respect to your use of ROK Battles. They supersede all prior or contemporaneous agreements, representations, or understandings, whether written or oral, relating to the Services.
 
 By continuing to access or use ROK Battles, you confirm that you have read, understood, and agree to be bound by these Terms of Service.
