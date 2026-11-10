@@ -1,12 +1,12 @@
 # Terms of Service
 
-Effective date: 20 August 2026
+Effective date: 18 November 2026
 
-Last updated: 5 November 2026
+Last updated: 7 November 2026
 
 **Welcome to ROK Battles**
 
-Welcome, and thank you for being part of the ROK Battles community. ROK Battles is a passion project created for players of _Rise of Kingdoms_, designed to give the community tools to share, explore, and analyze battle reports in a more meaningful way.
+Welcome, and thank you for being part of the ROK Battles community. ROK Battles is a passion project created for players of _Rise of Kingdoms_, designed to give the community tools to share, explore, and analyze supported game mails in a more meaningful way.
 
 These Terms of Service are more than fine print: they are the framework that allows this community to exist safely and fairly. They establish the ground rules for how the Services work, what you can expect from us, and what we expect from you in return. Because ROK Battles is still evolving, these Terms also govern features such as user accounts and integrations with third-party service providers.
 
@@ -14,7 +14,7 @@ By using ROK Battles, you are entering into a legally binding contract with ROK 
 
 **1\. Introduction & Agreement to Terms**
 
-These Terms of Service (“Terms”) form a legally binding contract between you (“you,” “User”) and ROK Battles LLC, a Florida limited liability company (“ROK Battles,” “we,” “our,” or “us”), governing your use of the ROK Battles website, the ROK Battles desktop application, related APIs, and all content, features, and services we make available through them (collectively, the “Services”).
+These Terms of Service (“Terms”) form a legally binding contract between you (“you,” “User”) and ROK Battles LLC, a Florida limited liability company (“ROK Battles,” “we,” “our,” or “us”), governing your use of the ROK Battles website, the ROK Battles desktop application, related APIs, mobile DNS and game capture gateways, and all content, features, and services we make available through them (collectively, the “Services”).
 
 By accessing, installing, or otherwise using the Services, you represent that you have read and understood these Terms, and you agree to be bound by them. If you do not agree, you must not use the Services.
 
@@ -34,22 +34,25 @@ The Services are made available to a global audience. However, you are solely re
 
 **3\. Description of Services**
 
-ROK Battles is a community-driven platform built by players, for players. Its purpose is to make the strategic elements of _Rise of Kingdoms_ more transparent and engaging by enabling the sharing and analysis of battle reports.
+ROK Battles is a community-driven platform built by players, for players. Its purpose is to make the strategic elements of _Rise of Kingdoms_ more transparent and engaging by enabling the sharing and analysis of supported game mails.
 
-- **The Website.** The primary experience is hosted at [rokbattles.com](https://rokbattles.com). The website allows users to explore uploaded reports, view aggregated statistics, and analyze trends.
-- **The Application.** We provide a downloadable desktop app that allows users to upload reports to the platform. The app is for submission only; exploration and analysis take place on the website.
+- **The Website.** The primary experience is hosted at [rokbattles.com](https://rokbattles.com). The website allows users to explore uploaded game mails, view aggregated statistics, and analyze trends.
+- **The Application.** We provide a downloadable desktop app that allows users to upload supported game mails to the platform. The app is for submission only; exploration and analysis take place on the website.
+- **Mobile DNS & Game Capture.** We provide mobile configurations that route supported game connections through our gateways to extract and automatically upload supported game mails. On Android, DNS queries from apps not excluded in Intra also pass through our resolver, which forwards queries outside the domains handled by ROK Battles to Cloudflare’s 1.1.1.1 DNS service. The iOS configuration profile routes DNS queries for specified domains to our resolver. See our installation instructions and Privacy Policy for details, including how to limit or stop capture.
 
 The Services are provided free of charge. We provide account-based services, including authentication through Discord.
 
-The Services are provided “as is.” We are continuously developing and improving them, and you acknowledge that features may change, break, or be discontinued without notice. We make no commitment to maintain backward compatibility or to preserve particular reports, trends, or features indefinitely.
+The Services are provided “as is.” We are continuously developing and improving them, and you acknowledge that features may change, break, or be discontinued without notice. We make no commitment to maintain backward compatibility or to preserve particular game mails, trends, or features indefinitely.
 
 **4\. Open-Source & GitHub Repository**
 
 The Services are powered in part by software that is publicly available as an open-source project at [https://github.com/rokbattles/rokbattles](https://github.com/rokbattles/rokbattles). Except where otherwise noted, the current source code is distributed under the GNU Affero General Public License, version 3 only (AGPL-3.0-only, the “Open-Source License”). Versions previously released under the MIT License or Apache License, Version 2.0 remain available under those licenses. Third-party components retain their own licenses and required notices.
 
-Your rights with respect to the source code are determined solely by the Open-Source License. Nothing in these Terms is intended to alter, expand, or restrict your rights under the Open-Source License. However, your use of the hosted Services (the website, the app, and the APIs we operate) is governed exclusively by these Terms.
+Your rights with respect to software covered by the Open-Source License, including source code and executable copies, are determined by that license. Nothing in these Terms alters, expands, or restricts rights granted under an applicable open-source license, including rights to run, modify, or redistribute covered software. These Terms govern access to the hosted website, APIs, DNS and game capture gateways, and other hosted services operated by ROK Battles, including when accessed through the App.
 
-Where these Terms conflict with the Open-Source License, the Open-Source License controls your use of the source code, while these Terms control your use of the Services.
+Where these Terms conflict with an applicable open-source license concerning covered software, that license controls. Restrictions on access to our hosted services do not impose additional restrictions on rights granted under that license.
+
+The Open-Source License does not automatically apply to submitted game mails, other User Content, trademarks, or third-party game assets. Those materials remain subject to their applicable rights and terms, including Sections 5, 7, and 8. The policy documents in our [legal repository](https://github.com/rokbattles/legal) are made available under the Creative Commons Attribution-ShareAlike 4.0 International license, as set out in that repository, rather than the software’s Open-Source License.
 
 **5\. No Affiliation with Lilith Games**
 
@@ -69,12 +72,12 @@ Certain features of the Services require registration and a user account.
 
 Accounts are a privilege, not a right, and ROK Battles reserves sole discretion in their management.
 
-**7\. User Content (Battle Reports, Data Uploads)**
+**7\. User Content (Game Mails, Data Uploads)**
 
-The heart of ROK Battles is the content you and other users contribute. This includes battle reports, metadata, and related materials you upload through the Services (“User Content”).
+The heart of ROK Battles is the content you and other users contribute. This includes supported game mails, metadata, and related materials you upload or automatically submit through capture you enable in the Services (“User Content”).
 
-1. **Ownership.** You retain all ownership rights in your User Content.
-2. **License to Us.** By submitting User Content, you grant ROK Battles a worldwide, non-exclusive, royalty-free, perpetual, irrevocable, sublicensable, and transferable license to host, store, reproduce, display, analyze, distribute, and create derivative works from your User Content for the purpose of operating, improving, and promoting the Services.
+1. **Ownership.** You retain any ownership rights you hold in your User Content. Appearing in game mails or other content submitted by another user does not by itself give you ownership of or control over that content. This does not limit your rights under applicable data protection law.
+2. **License to Us.** By submitting User Content, including through automatic capture you enable, you grant ROK Battles a worldwide, non-exclusive, royalty-free, perpetual, irrevocable, sublicensable, and transferable license to host, store, reproduce, display, analyze, distribute, and create derivative works from your User Content for the purpose of operating, improving, and promoting the Services. This license does not limit your rights under applicable data protection law or permit us to retain or process personal information contrary to that law.
 3. **Your Representations.** You represent and warrant that:
     - You own or have sufficient rights to submit the User Content.
     - Your User Content does not infringe or violate the intellectual property, privacy, or other rights of any third party.
@@ -87,7 +90,7 @@ By contributing to ROK Battles, you help build a community resource. You also ac
 
 Except as expressly provided under the Open-Source License referenced above, all intellectual property rights in and to the Services—including but not limited to the ROK Battles name, logo, website design, database architecture, visual interfaces, and non-open-sourced components of the platform—are owned by ROK Battles and its licensors.
 
-You are granted a limited, non-exclusive, revocable license to access and use the Services solely for personal, non-commercial purposes in accordance with these Terms. Nothing in these Terms transfers to you any ownership interest in the Services, or grants you any rights to use ROK Battles’ trademarks, logos, or trade dress without our prior written consent.
+You are granted a limited, non-exclusive, revocable license to access and use our hosted services solely for personal, non-commercial purposes in accordance with these Terms. This restriction does not limit rights granted under an applicable open-source license to use, modify, or redistribute covered software, including for commercial purposes. Nothing in these Terms transfers to you any ownership interest in the Services, or grants you any rights to use ROK Battles’ trademarks, logos, or trade dress without our prior written consent.
 
 All rights not expressly granted herein are reserved. Any unauthorized use of our intellectual property may result in termination of your access to the Services and potential legal action.
 
@@ -141,6 +144,8 @@ Our approach to data collection is intentionally minimal. The App transmits limi
 
 When you create an account or sign in through Discord, we receive and store your Discord user ID and email address.
 
+When you enable mobile capture, our DNS resolver and game capture gateways process the DNS queries and game traffic routed to them to collect supported game mails and associated identifiers as described in our Privacy Policy.
+
 Your use of the Services is also governed by our Privacy Policy, which explains in greater detail what data we collect, how we use it, and your rights regarding your personal information.
 
 **14\. Data Security**
@@ -183,12 +188,12 @@ We may suspend or terminate your access to the Services, or to specific features
 - Conduct that we reasonably believe may cause harm to the Services, to other users, or to ROK Battles;
 - Compliance with legal requirements or governmental requests.
 
-You may terminate your account at any time by discontinuing use of the Services and, if applicable, deleting your account through the provided mechanisms.
+You may stop using the Services at any time. To request account deletion, email [privacy@rokbattles.com](mailto:privacy@rokbattles.com); account deletion requests are currently handled manually. Signing out, unlinking a governor, uninstalling the App, or stopping mobile capture does not by itself delete your account or previously collected game mails. Deleting your account or content you submitted does not automatically remove game mails or other content independently submitted by other users, even if you appear in that content. Requests concerning personal information about you in game mails and other User Content are assessed separately under applicable law, as described in our Privacy Policy.
 
 Upon termination:
 
-- Your right to access the Services immediately ceases;
-- Certain licenses granted by you to us (e.g., with respect to User Content) shall continue;
+- Your right to access our hosted services immediately ceases, but termination under these Terms does not terminate rights granted under an applicable open-source license; those rights remain subject to that license’s own terms;
+- Certain licenses granted by you to us (e.g., with respect to User Content) shall continue, subject to your rights under applicable data protection law;
 - Provisions of these Terms that by their nature should survive termination (including Sections 7, 8, 18, 19, and 20) shall remain in effect.
 
 **18\. Disclaimers of Warranties**
